@@ -8,7 +8,7 @@ I have been a software engineer for almost 5 years now. Most of my projects incl
 
 * 🌍  I'm based in Concord, NC
 * ✉️  You can contact me at [ryan@ryanrhodes.io](mailto:ryan@ryanrhodes.io)
-* 🚀  I'm currently working on [building AI focused tools @GoodwayGroup](http://goodwaygroup.com)
+* 🚀  I'm currently working on [build next generation sports tech at Fasbreak.ai](https://fastbreak.ai)
 * 🧠  I'm learning Elixir
 * 🤝  I'm open to collaborating on anything web development related
 * ⚡  I love Alaska
